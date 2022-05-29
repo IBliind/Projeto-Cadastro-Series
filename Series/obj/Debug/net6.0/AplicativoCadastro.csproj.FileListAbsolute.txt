@@ -1,0 +1,15 @@
+C:\Curso\Dio.Series\Dio.Series\bin\Debug\net6.0\AplicativoCadastro.exe
+C:\Curso\Dio.Series\Dio.Series\bin\Debug\net6.0\AplicativoCadastro.deps.json
+C:\Curso\Dio.Series\Dio.Series\bin\Debug\net6.0\AplicativoCadastro.runtimeconfig.json
+C:\Curso\Dio.Series\Dio.Series\bin\Debug\net6.0\AplicativoCadastro.dll
+C:\Curso\Dio.Series\Dio.Series\bin\Debug\net6.0\AplicativoCadastro.pdb
+C:\Curso\Dio.Series\Dio.Series\obj\Debug\net6.0\AplicativoCadastro.csproj.AssemblyReference.cache
+C:\Curso\Dio.Series\Dio.Series\obj\Debug\net6.0\AplicativoCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\Dio.Series\Dio.Series\obj\Debug\net6.0\AplicativoCadastro.AssemblyInfoInputs.cache
+C:\Curso\Dio.Series\Dio.Series\obj\Debug\net6.0\AplicativoCadastro.AssemblyInfo.cs
+C:\Curso\Dio.Series\Dio.Series\obj\Debug\net6.0\AplicativoCadastro.csproj.CoreCompileInputs.cache
+C:\Curso\Dio.Series\Dio.Series\obj\Debug\net6.0\AplicativoCadastro.dll
+C:\Curso\Dio.Series\Dio.Series\obj\Debug\net6.0\refint\AplicativoCadastro.dll
+C:\Curso\Dio.Series\Dio.Series\obj\Debug\net6.0\AplicativoCadastro.pdb
+C:\Curso\Dio.Series\Dio.Series\obj\Debug\net6.0\AplicativoCadastro.genruntimeconfig.cache
+C:\Curso\Dio.Series\Dio.Series\obj\Debug\net6.0\ref\AplicativoCadastro.dll
